@@ -1,3 +1,5 @@
 # silascutler
 
-[Buy me a :beer](https://www.paypal.com/paypalme/silascutler).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/silascutler)
+
