@@ -10,6 +10,4 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/silascutler)  
 
-https://img.shields.io/mastodon/follow/@silas?domain=infosec.exchange&style=social
-
 
